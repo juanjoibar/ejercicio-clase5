@@ -1,0 +1,55 @@
+*{
+    
+    border-color: black;
+    text-align: center;
+    border-width: 2px;
+    
+    border-style: solid;
+    
+    padding-top: auto;
+    padding-bottom: auto;
+    
+
+}
+header
+{
+height: 50px;
+background-color: rosybrown;
+}
+nav{
+    height: 45px;
+    background-color: lightsteelblue;
+
+}
+section{
+    background-color: yellow;
+    height: 400px;
+}
+article{
+    background-color: violet;
+    height: 320px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    ;
+}
+aside{
+    margin-top: 0px;
+    
+    background-color: gray;
+    float: right;
+    width: 600px;
+    height: 370px;
+    padding-top: 30px;
+    padding-bottom: auto;
+
+}
+footer{
+
+    background-color: orange;
+    height: 100px;
+    
+}
+p{
+    padding: auto;
+    border-style: none;
+}
